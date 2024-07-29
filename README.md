@@ -12,7 +12,8 @@ Description: This pie chart shows the distribution of missing persons by gender.
 
 Insight: It helps in understanding if one gender is more frequently reported missing than the other.
 
-![image](https://github.com/user-attachments/assets/215c3d96-1f7c-4c39-ab8b-efc596b79856)
+![Gender Distribution](https://github.com/user-attachments/assets/18aba92e-0de7-483c-a2ab-567a52e3b213)
+
 
 
 ### 2. Age Distribution:
@@ -20,7 +21,8 @@ Description: This histogram displays the age distribution of missing persons.
 
 Insight: It helps identify which age groups are more frequently reported missing.
 
-![image](https://github.com/user-attachments/assets/17990747-bb9a-4917-be09-30f5cbe07189)
+![Age Distribution](https://github.com/user-attachments/assets/0b8a887f-e6f3-4b12-bde8-4984b0c5185f)
+
 
 
 ### 3. Status of Missing Persons:
@@ -28,7 +30,8 @@ Description: This bar chart shows the current status of missing persons, whether
 
 Insight: It provides a quick overview of the outcomes of the missing person cases.
 
-![image](https://github.com/user-attachments/assets/b4ac56fc-33d3-4e94-9286-282e679476f6)
+ ![Status of Missing Persons](https://github.com/user-attachments/assets/7e6e77f3-8877-4208-bf3e-fd62b54304b6)
+
 
 
 ### 4. Missing Dates:
@@ -36,7 +39,8 @@ Description: This line or bar chart shows the number of people reported missing 
 
 Insight: It helps identify any patterns or trends in missing person reports over a specific period.
 
-![image](https://github.com/user-attachments/assets/a494b8ba-5e1a-4ba7-b85b-f54d18e1b3eb)
+![Missing Dates](https://github.com/user-attachments/assets/c324de5e-f4e3-4ff3-8baf-38dc40f69b51)
+
 
 
 ### 5. Image Availability:
@@ -44,7 +48,8 @@ Description: This pie chart displays the percentage of cases with and without im
 
 Insight: It highlights the availability of images, which can be crucial for identification and search efforts.
 
-![image](https://github.com/user-attachments/assets/e5345b9b-3c9d-4750-8a8f-a43c0404b762)
+![Image Availability](https://github.com/user-attachments/assets/8c7d4cb0-459b-497e-8f4f-c013f2f989f4)
+
 
 
 ### 6. Last Seen Location Distribution:
@@ -52,4 +57,5 @@ Description: This bar chart shows the distribution of the last seen locations of
 
 Insight: It helps identify hotspots or areas with higher occurrences of missing person reports.
 
-![image](https://github.com/user-attachments/assets/5587c0fc-14e7-4e4c-888a-6bf7471ffa7d)
+![Last Seen Location](https://github.com/user-attachments/assets/0865dab5-ec7f-4456-a95c-90a3ba0ab14e)
+
