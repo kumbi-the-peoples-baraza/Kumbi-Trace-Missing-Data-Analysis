@@ -44,7 +44,9 @@ Description: This line or bar chart shows the number of people reported missing 
 
 Insight: It helps identify any patterns or trends in missing person reports over a specific period. For instance, the graph below indicates that a significant number of people went missing between June and July 2024, a period marked by widespread protests.
 
-![Missing Dates](https://github.com/user-attachments/assets/c324de5e-f4e3-4ff3-8baf-38dc40f69b51)
+![Missing Dates 2](https://github.com/user-attachments/assets/f812c07a-c2ef-47fa-b48b-790348b55776)
+
+
 
 
 
