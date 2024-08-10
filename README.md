@@ -17,7 +17,8 @@ Insight: It helps in understanding if one gender is more frequently reported mis
 
 
 
-![Gender Distribution](https://github.com/user-attachments/assets/18aba92e-0de7-483c-a2ab-567a52e3b213)
+![Gender Distribution](https://github.com/user-attachments/assets/784937a8-9b3a-4447-84ec-d35d8f9bd983)
+
 
 
 
@@ -26,7 +27,8 @@ Description: This histogram displays the age distribution of missing persons.
 
 Insight: It helps identify which age groups are more frequently reported missing. For instance, the graph below clearly indicates that the most frequently reported missing age group is 25-30 years, followed by 20-25 years.
 
-![Age Distribution](https://github.com/user-attachments/assets/0b8a887f-e6f3-4b12-bde8-4984b0c5185f)
+
+![Age Distribution](https://github.com/user-attachments/assets/6792c611-69c2-4731-849c-86e0236c6b03)
 
 
 
@@ -35,7 +37,8 @@ Description: This bar chart shows the current status of missing persons, whether
 
 Insight: It provides a quick overview of the outcomes of the missing person cases. For example, based on the reported cases in our database, the visualization below shows that 32 people are still missing, though the actual number may be higher. Additionally, 27 people were found alive, highlighting the importance of this website in raising awareness and aiding in the swift location of missing individuals. Unfortunately, around 4 people were found deceased.
 
- ![Status of Missing Persons](https://github.com/user-attachments/assets/7e6e77f3-8877-4208-bf3e-fd62b54304b6)
+
+![Status of Missing Persons](https://github.com/user-attachments/assets/53079a66-c87a-4425-83bc-6289c2246cfc)
 
 
 
@@ -44,7 +47,8 @@ Description: This line or bar chart shows the number of people reported missing 
 
 Insight: It helps identify any patterns or trends in missing person reports over a specific period. For instance, the graph below indicates that a significant number of people went missing between June and July 2024, a period marked by widespread protests.
 
-![Missing Dates 2](https://github.com/user-attachments/assets/f812c07a-c2ef-47fa-b48b-790348b55776)
+
+![Last Seen Distribution 2024](https://github.com/user-attachments/assets/f247649e-7379-498a-94bd-839f2e81218f)
 
 
 
@@ -69,5 +73,6 @@ Description: This bar chart shows the distribution of the last seen locations of
 
 Insight: It helps identify hotspots or areas with higher occurrences of missing person reports. According to the visualization, the Nairobi CBD location has the highest number of people reported missing based on their last known location.
 
-![Last Seen Location](https://github.com/user-attachments/assets/0865dab5-ec7f-4456-a95c-90a3ba0ab14e)
+![Last Seen Location](https://github.com/user-attachments/assets/6801daca-554c-4582-ac07-f649744a26f1)
+
 
