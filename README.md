@@ -10,7 +10,7 @@ The dataset contains information about missing persons, including their case num
 ### 1. Gender Distribution:
 Description: This pie chart shows the distribution of missing persons by gender.  
 
-Insight: It helps in understanding if one gender is more frequently reported missing than the other. According to the pie chart below, males constitute a higher percentage of missing persons at 74.2%, while females account for 25.8% of the total.
+Insight: It helps in understanding if one gender is more frequently reported missing than the other. According to the pie chart below, males constitute a higher percentage of missing persons at 76.2%, while females account for 23.8% of the total.
 
 
 
@@ -25,7 +25,7 @@ Insight: It helps in understanding if one gender is more frequently reported mis
 ### 2. Age Distribution:
 Description: This histogram displays the age distribution of missing persons.
 
-Insight: It helps identify which age groups are more frequently reported missing. For instance, the graph below clearly indicates that the most frequently reported missing age group is 25-30 years, followed by 20-25 years.
+Insight: It helps identify which age groups are more frequently reported missing. For instance, the graph below clearly indicates that the most frequently reported missing age group is 25-30 years.
 
 
 ![Age Distribution](https://github.com/user-attachments/assets/6792c611-69c2-4731-849c-86e0236c6b03)
@@ -35,7 +35,7 @@ Insight: It helps identify which age groups are more frequently reported missing
 ### 3. Status of Missing Persons:
 Description: This bar chart shows the current status of missing persons, whether they were found alive, found dead, or are still missing.
 
-Insight: It provides a quick overview of the outcomes of the missing person cases. For example, based on the reported cases in our database, the visualization below shows that 32 people are still missing, though the actual number may be higher. Additionally, 27 people were found alive, highlighting the importance of this website in raising awareness and aiding in the swift location of missing individuals. Unfortunately, around 4 people were found deceased.
+Insight: It provides a quick overview of the outcomes of the missing person cases. For example, based on the reported cases in our database, the visualization below shows that 39 people are still missing, though the actual number may be higher. Additionally, 62 people were found alive, highlighting the importance of this website in raising awareness and aiding in the swift location of missing individuals. Unfortunately, around 4 people were found deceased.
 
 
 ![Status of Missing Persons](https://github.com/user-attachments/assets/53079a66-c87a-4425-83bc-6289c2246cfc)
@@ -45,7 +45,7 @@ Insight: It provides a quick overview of the outcomes of the missing person case
 ### 4. Missing Dates:
 Description: This line or bar chart shows the number of people reported missing over time. 
 
-Insight: It helps identify any patterns or trends in missing person reports over a specific period. For instance, the graph below indicates that a significant number of people went missing between June and July 2024, a period marked by widespread protests.
+Insight: It helps identify any patterns or trends in missing person reports over a specific period. For instance, the graph below indicates that a significant number of people went missing between June, July and August 2024, a period marked by widespread protests.
 
 
 ![Last Seen Distribution 2024](https://github.com/user-attachments/assets/f247649e-7379-498a-94bd-839f2e81218f)
@@ -71,7 +71,7 @@ Insight: It highlights the availability of images, which can be crucial for iden
 ### 6. Last Seen Location Distribution:
 Description: This bar chart shows the distribution of the last seen locations of missing persons.
 
-Insight: It helps identify hotspots or areas with higher occurrences of missing person reports. According to the visualization, the Nairobi CBD location has the highest number of people reported missing based on their last known location.
+Insight: It helps identify hotspots or areas with higher occurrences of missing person reports. According to the visualization, the Nairobi Region has the highest number of people reported missing based on their last known location.
 
 ![Last Seen Location](https://github.com/user-attachments/assets/6801daca-554c-4582-ac07-f649744a26f1)
 
